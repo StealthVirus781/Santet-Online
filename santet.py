@@ -81,8 +81,8 @@ __banner__ = """
 \033[1;37m     ./ ,  `,  \033[1;31m   (____/`\__,_)(_) (_)`\__)`\____)`\__)
 \033[1;37m     / /     \  \033[1;37m       Made with \033[1;31m<3\033[0m\033[1;37m by StealthVirus\033[0m
 \033[1;37m    (_)))_ _," \033[0m
-\033[1;37m        ||||        TheEyeOfTheCyborgWorld.org - Cvar1984 - ITermSec\033[0m
-\033[1;37m       _||||_,      AnonymousPH - amsitlab - X14N23N6\033[0m
+\033[1;37m        ||||        TheEyeOfTheCyborgWorld.org - Yara - ITermSec\033[0m
+\033[1;37m       _||||_,      AnonymousPH - Unknown - Peach\033[0m
 \033[1;37m------(_,-._)))-----------------------------------------\033[0m
 """
 backtomenu_banner = """
